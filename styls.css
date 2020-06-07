@@ -1,0 +1,44 @@
+	table,td{
+	border: 1px solid black;
+  	border-collapse: collapse;
+  	padding: 15px;
+  	border: 1px solid black;
+  	margin:20px;
+	}
+
+	th{
+	background: #a2b9bc;
+	padding: 15px;
+  	border: 1px solid black;
+	}
+	
+	h1{
+		color: #a2b9bc;
+	}
+h4 {
+
+	color:#618685;
+}
+p::selection {
+	color: red;
+	background-color: yellow;
+}
+@media(max-width: 499px){
+
+body{
+	 background-color: #80ced6
+	}
+
+}
+img{
+		width: 400px; height: 300px;
+}
+#name{
+
+	background-color: #c94c4c;
+}
+.table
+{
+	background-color: #ff7b25
+
+}
